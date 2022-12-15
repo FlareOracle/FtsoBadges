@@ -1,0 +1,2 @@
+# FtsoBadges
+There was an initiative by some FTSO data providers to create a system where providers can agree to commit to certain standards and earn badges by doing so. This is a solidity implementation of said system where badges are represented by non-transferrable ERC1155 tokens.
